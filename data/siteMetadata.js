@@ -11,11 +11,11 @@ const siteMetadata = {
   siteLogo: 'public/static/images/logo. PNG',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'desaiparth2000@gmail.com',
+  email: 'irsyadalyahya5@gmail.com',
   github: 'https://github.com/IRS-dev',
-  twitter: 'https://twitter.com/lone_Musk',
-  linkedin: 'https://www.linkedin.com/in/parth-desai-2bb1b0160/',
- 
+  twitter: 'https://twitter.com/',
+  linkedin: 'https://www.linkedin.com/',
+
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
